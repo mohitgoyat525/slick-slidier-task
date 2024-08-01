@@ -160,3 +160,29 @@ height: 331px;
 
 
 }
+.shadow-two{
+  width: 331px;
+height: 331px;
+
+
+}
+.pb-100{
+  padding-bottom: 100px;
+}
+.slider-box-two-sec2{
+  width: 946px;
+height: 253px;
+top: 303px;
+left: 247px;
+gap: 0px;
+border-radius: 20px;
+opacity: 0px;
+background: #0389FF1F;
+
+
+}
+.center-shadow{
+  top: 50%;
+  left: 48%;
+  
+}
